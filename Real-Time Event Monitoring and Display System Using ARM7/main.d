@@ -1,0 +1,17 @@
+.\main.o: main.c
+.\main.o: C:\Keil\ARM\Inc\Philips\LPC21XX.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\main.o: types.h
+.\main.o: delay.h
+.\main.o: types.h
+.\main.o: lcd.h
+.\main.o: types.h
+.\main.o: lcd_defines.h
+.\main.o: rtc.h
+.\main.o: types.h
+.\main.o: adc.h
+.\main.o: types.h
+.\main.o: kpm.h
+.\main.o: types.h
+.\main.o: menu.h
+.\main.o: types.h

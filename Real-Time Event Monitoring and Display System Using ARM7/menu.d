@@ -1,0 +1,13 @@
+.\menu.o: menu.c
+.\menu.o: menu.h
+.\menu.o: types.h
+.\menu.o: lcd_defines.h
+.\menu.o: lcd.h
+.\menu.o: types.h
+.\menu.o: delay.h
+.\menu.o: types.h
+.\menu.o: types.h
+.\menu.o: kpm.h
+.\menu.o: types.h
+.\menu.o: C:\Keil\ARM\Inc\Philips\lpc21xx.h
+.\menu.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
