@@ -1,6 +1,6 @@
 # Real-Time Event Monitoring and Display System Using ARM7
 
-## Smart Event Reminder and Digital Notice Board System Using LPC2129
+
 
 ---
 
